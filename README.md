@@ -58,7 +58,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,c"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript"/>
 </p>
 
 ### Tools
@@ -69,97 +69,39 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🎬 ShowStack
 
-### 🎬 ShowStack
-Movie Ticket Booking Platform
+> 🎥 Movie Ticket Booking Platform
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Tailwind CSS
-- JWT Authentication
+🌐 **Live:** https://your-showstack.vercel.app  
+📂 **Source Code:** https://github.com/yourusername/showstack
+
+**Tech:** React • Node.js • Express • MongoDB • Tailwind CSS • JWT
 
 ---
 
-### 🤖 TechSphere AI
+## 🤖 TechSphere AI
 
-AI SaaS Platform with AI-powered tools
+> AI SaaS Platform powered by Gemini API
 
-- React
-- Node.js
-- MongoDB
-- Gemini API
-- Tailwind CSS
+🌐 **Live:** https://your-techsphere.vercel.app  
+📂 **Source Code:** https://github.com/yourusername/techsphere-ai
 
----
-
-### 🏢 Corporate Mitra Portal
-
-Business Management Portal
-
-- React.js
-- Express.js
-- MongoDB
-- Tailwind CSS
-- REST API
+**Tech:** React • Node.js • Express • MongoDB • Gemini API • Tailwind CSS
 
 ---
 
-# 📊 GitHub Stats
+## 🏢 Corporate Mitra Portal
 
-<p align="center">
+> Business Management Portal
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+🌐 **Live:** https://www.corporatemitraportal.com/  
+📂 **Source Code:** https://github.com/yourusername/corporate-mitra-portal
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+**Tech:** React • Node.js • Express • MongoDB • Tailwind CSS • REST API
 
-</p>
 
----
 
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-## 💡 Quote
-
-> "First, solve the problem. Then, write the code." — John Johnson
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
