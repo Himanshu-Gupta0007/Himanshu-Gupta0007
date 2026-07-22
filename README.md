@@ -36,76 +36,19 @@ Passionate about building scalable, responsive, and production-ready web applica
 💻 Portfolio: *(Add Portfolio URL)*
 
 ---
-# 💻 Tech Stack
+## 🚀 Tech Stack
 
-## 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,npm,nextjs,ts,vercel,netlify&theme=dark&perline=9" />
 </p>
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Redux Toolkit
-- Context API
-- Tailwind CSS
-- Bootstrap
-
----
-
-## ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+<strong>Context API • REST APIs • JWT Authentication • Mongoose • Render • API Integration • Responsive Design</strong>
 </p>
 
-- Node.js
-- Express.js
-- REST API
-- JWT Authentication
-
----
-
-## 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+<p align="center">
+🌱 <strong>Currently Learning:</strong> Next.js • TypeScript • AI Integration • System Design
 </p>
-
-- MongoDB
-- Mongoose
-
----
-
-## 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify" />
-</p>
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- npm
-- Vercel
-- Render
-- Netlify
-
----
-
-## 📚 Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,ai" />
-</p>
-
-- Next.js
-- TypeScript
-- AI Integration
-- System Design
 
 # 💼 Professional Experience
 
