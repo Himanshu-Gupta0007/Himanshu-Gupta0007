@@ -36,51 +36,9 @@ Passionate about building scalable, responsive, and production-ready web applica
 💻 Portfolio: *(Add Portfolio URL)*
 
 ---
-
-# 💻 Tech Stack
-
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Redux Toolkit
-- Context API
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-
-- Node.js
-- Express.js
-- REST API
-- JWT Authentication
-
-### Database
-
-- MongoDB
-- Mongoose
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- npm
-- Vercel
-- Render
-- Netlify
-
-### Currently Learning
-
-- Next.js
-- TypeScript
-- AI Integration
-- System Design
-
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,npm,nextjs,ts,vercel,netlify&perline=6" />
+</p>
 
 # 💼 Professional Experience
 
