@@ -13,9 +13,6 @@ Passionate about building scalable, responsive, and production-ready web applica
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
 
-<a href="https://github.com/yourusername?tab=followers">
-<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
-</a>
 
 <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
 </p>
