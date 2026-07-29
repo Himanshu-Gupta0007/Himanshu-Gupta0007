@@ -1,60 +1,120 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Web Developer | India 🇮🇳</h3>
+
+<h3 align="center">
+MERN Stack Developer • Full Stack Web Developer • India 🇮🇳
+</h3>
 
 <p align="center">
 Passionate about building scalable, responsive, and production-ready web applications using the MERN Stack.
 </p>
 
----
+<p align="center">
+<a href="https://github.com/yourusername">
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 
-## 👨‍💻 About Me
+<a href="https://github.com/yourusername?tab=followers">
+<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
+</a>
 
-💼 MERN Stack Developer with **5+ months of hands-on experience** developing and maintaining production-ready web applications for real business clients.
-
-🚀 Experienced in building complete full-stack applications using **React.js, Node.js, Express.js, MongoDB**, and REST APIs.
-
-🌱 Currently learning **Next.js, TypeScript, AI Integration, System Design, and Cloud Technologies**.
-
-🔐 Skilled in **JWT Authentication, API Integration, Redux, Context API, and Responsive UI Development**.
-
-⚡ Passionate about writing clean, maintainable code and solving real-world business problems.
-
-🎯 Open to **Full-Time MERN Stack / React.js / Full Stack Developer** opportunities.
+<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📫 Contact Me
+# 👨‍💻 About Me
 
-📧 Email: **guptahimu90@gmail.com**
+💼 **MERN Stack Developer** with **5+ months** of hands-on experience developing and maintaining production-ready web applications.
 
-📱 Phone: **+91 8826373055**
+🚀 Experienced in building complete Full Stack Applications using:
 
-📍 Location: **New Delhi, India**
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
 
-💼 LinkedIn: *(Add Your LinkedIn URL)*
+🌱 Currently Learning
 
-💻 Portfolio: *(Add Portfolio URL)*
+- Next.js
+- TypeScript
+- AI Integration
+- System Design
+- Cloud Technologies
+
+🔐 Strong understanding of
+
+- JWT Authentication
+- Redux Toolkit
+- Context API
+- API Integration
+- Responsive UI Development
+
+💡 Passionate about writing clean, scalable and maintainable code.
+
+🎯 Looking for **Full-Time MERN Stack / React.js / Full Stack Developer Opportunities.**
 
 ---
-## 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,npm,nextjs,ts,vercel,netlify&theme=dark&perline=9" />
+# 🌐 Connect With Me
+
+📧 **Email**
+
+**guptahimu90@gmail.com**
+
+📱 **Phone**
+
++91 8826373055
+
+📍 **Location**
+
+New Delhi, India
+
+💼 LinkedIn
+
+https://linkedin.com/in/your-linkedin
+
+🌍 Portfolio
+
+https://yourportfolio.com
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,vite" />
 </p>
 
-<p align="center">
-<strong>Context API • REST APIs • JWT Authentication • Mongoose • Render • API Integration • Responsive Design</strong>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-<p align="center">
-🌱 <strong>Currently Learning:</strong> Next.js • TypeScript • AI Integration • System Design
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript" />
 </p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render,npm" />
+</p>
+
+---
 
 # 💼 Professional Experience
 
 ## MERN Stack Developer (Contract)
 
-📍 New Delhi | 2026 – Present
+📍 New Delhi
+
+📅 2026 – Present
 
 ### Corporate Mitra Portal
 
@@ -62,16 +122,23 @@ Passionate about building scalable, responsive, and production-ready web applica
 
 ### Responsibilities
 
-- Developed and maintained a production-ready full-stack business portal.
-- Built scalable REST APIs using Node.js and Express.js.
-- Implemented secure JWT Authentication.
-- Designed responsive UI using React.js and Tailwind CSS.
-- Managed deployment, bug fixing, optimization, and monthly maintenance.
-- Improved application performance and user experience.
+✔ Developed and maintained a production-ready business portal.
 
-**Tech Stack**
+✔ Built scalable REST APIs using Node.js & Express.js.
 
-React.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT • REST API
+✔ Implemented JWT Authentication.
+
+✔ Designed responsive UI using React.js & Tailwind CSS.
+
+✔ Integrated APIs with frontend.
+
+✔ Fixed bugs and optimized performance.
+
+✔ Managed deployment and monthly maintenance.
+
+### Tech Used
+
+React.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT • REST APIs
 
 ---
 
@@ -79,21 +146,23 @@ React.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT • RES
 
 ## 🏢 Corporate Mitra Portal
 
-Production-ready Business Management Portal
+Production Ready Business Portal
 
-🌐 Live:
-https://www.corporatemitraportal.com/
+🌐 https://www.corporatemitraportal.com/
 
 ### Features
 
-- Full Stack MERN Application
-- Secure Authentication
-- Dashboard
-- Business Management
-- REST API
-- Responsive Design
+✅ Authentication
 
-Tech
+✅ Dashboard
+
+✅ Business Management
+
+✅ REST APIs
+
+✅ Responsive Design
+
+**Tech**
 
 React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 
@@ -101,21 +170,25 @@ React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 
 ## 🤖 TechSphere AI
 
-AI SaaS Platform powered by AI APIs
+AI SaaS Platform
 
-🌐 Live:
-https://tech-sphere-ai.vercel.app/
+🌐 https://tech-sphere-ai.vercel.app/
 
 ### Features
 
-- AI Content Generation
-- Real-time API Integration
-- Authentication
-- Responsive Dashboard
+✅ AI Content Generation
 
-Tech
+✅ AI APIs Integration
 
-React.js • Node.js • Express.js • MongoDB • AI APIs • Tailwind CSS
+✅ Authentication
+
+✅ Dashboard
+
+✅ Responsive Design
+
+**Tech**
+
+React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 
 ---
 
@@ -123,84 +196,117 @@ React.js • Node.js • Express.js • MongoDB • AI APIs • Tailwind CSS
 
 Movie Ticket Booking Platform
 
-🌐 Live
-
-https://showstack-frontend.vercel.app/
+🌐 https://showstack-frontend.vercel.app/
 
 ### Features
 
-- Movie Listing
-- Seat Selection
-- Booking Workflow
-- Responsive UI
-- API Integration
+✅ Movie Listing
 
-Tech
+✅ Seat Booking
 
-React.js • Tailwind CSS • REST API
+✅ Authentication
+
+✅ API Integration
+
+✅ Responsive UI
+
+**Tech**
+
+React.js • Node.js • Express.js • Tailwind CSS
 
 ---
 
 ## 🚗 DriveElite
 
-Car Rental & Booking Platform
+Car Rental Platform
 
-🌐 Live
-
-https://driveelite-client.vercel.app/
+🌐 https://driveelite-client.vercel.app/
 
 ### Features
 
-- Car Listings
-- Search & Filter
-- Booking System
-- REST API
-- Responsive Design
+✅ Car Listing
 
-Tech
+✅ Search & Filter
 
-React.js • Node.js • Express.js • MongoDB • Tailwind CSS
+✅ Booking System
+
+✅ REST APIs
+
+✅ Responsive Design
+
+**Tech**
+
+React.js • Node.js • Express.js • MongoDB
 
 ---
 
 # 🛠 Core Skills
 
-✔ Full Stack Development
-
-✔ REST API Development
-
-✔ MongoDB Database Design
-
-✔ JWT Authentication
-
-✔ Responsive Web Design
-
-✔ API Integration
-
-✔ Debugging
-
-✔ Git & GitHub
-
-✔ Deployment (Vercel, Render)
-
-✔ Agile Development
+- Full Stack Development
+- REST API Development
+- MongoDB Database Design
+- JWT Authentication
+- API Integration
+- Responsive Web Design
+- Git & GitHub
+- Deployment (Vercel & Render)
+- Debugging
+- Agile Development
 
 ---
 
 # 📚 Education
 
-### Dice Academy, Delhi
+## Dice Academy
 
-**Full Stack Web Development Certification**
+Full Stack Web Development
 
-2025 – Completed
+📅 Completed - 2025
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&row=1"/>
+
+</p>
 
 ---
 
 # 🎯 Career Objective
 
-I am looking for a challenging Full-Time opportunity as a MERN Stack / React.js / Full Stack Developer where I can contribute to production applications, learn modern technologies, and grow as a Software Engineer.
+I am seeking a Full-Time opportunity as a **MERN Stack / React.js / Full Stack Developer**, where I can contribute to real-world production applications, solve challenging problems, and continuously grow as a Software Engineer.
 
 ---
 
-⭐ If you like my work, don't forget to star my repositories!
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+If you like my work, don't forget to ⭐ my repositories.
+</p>
