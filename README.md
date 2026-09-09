@@ -10,7 +10,7 @@ I'm a **MERN Stack Developer with 8 months of professional experience**, current
 
 ### Full Stack Developer --- DB Services
 
-**New Delhi | 8 Months Experience**
+**New Delhi || 8 Months Experience**
 
 * Developed full-stack applications using **React.js, Node.js, Express.js & MongoDB**
 * Built responsive UIs with **React.js, Tailwind CSS & reusable components**
