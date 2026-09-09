@@ -8,7 +8,7 @@ I'm a **MERN Stack Developer with 8 months of professional experience**, current
 
 ## 💼 Professional Experience
 
-### Full Stack Developer — DB Services
+### Full Stack Developer --- DB Services
 
 **New Delhi | 8 Months Experience**
 
