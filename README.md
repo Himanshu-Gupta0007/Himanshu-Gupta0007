@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Himanshu Gupta
 
-### 🚀 MERN Stack Developer | Full Stack Developer | React.js | Node.js | AI Integration
+### 🚀 MERN Stack Developer | Full Stack Developer | React.js | Node.js 
 
 I'm a **MERN Stack Developer with 8 months of professional experience**, currently working as a **Full Stack Developer at DB Services**. I build responsive, scalable and real-world web applications using modern JavaScript technologies.
 
