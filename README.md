@@ -43,7 +43,7 @@ I'm a **MERN Stack Developer with 8 months of professional experience**, current
 
 Full-stack movie booking application with movie listings, shows, authentication and booking functionality.
 
-**Tech:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB
+**Tech:** React.js • Tailwind CSS • Node.js •... Express.js • MongoDB
 
 🔗 **Live Demo:** https://show-stack.vercel.app/
 🔗 **GitHub:** https://github.com/Himanshu-Gupta0007/ShowStack
