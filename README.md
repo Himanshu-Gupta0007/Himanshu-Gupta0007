@@ -50,15 +50,15 @@ Full-stack movie booking application with movie listings, shows, authentication 
 
 ---
 
-### 🤖 TechSphere AI
+## 🤖 TechSphere AI
 
 AI-powered SaaS web application with modern UI and AI-based features including thumbnail generation.
 
 **Tech:** React.js • Tailwind CSS • AI APIs
 
-🔗 **GitHub:** https://github.com/Himanshu-Gupta0007
+🔗 **GitHub:* https://github.com/Himanshu-Gupta0007
 
----
+--
 
 ### 🏢 Corporate Mitra Portal
 
