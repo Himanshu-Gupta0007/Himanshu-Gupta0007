@@ -209,7 +209,7 @@ Real-world business portals, service platforms and management applications.
 
 Applications integrating **Generative AI, Gemini APIs and other AI services**.
 
-### 🎟️ Booking Platforms
+## 🎟️ Booking Platforms
 
 Feature-rich applications with authentication, booking workflows, APIs and database integration.
 
