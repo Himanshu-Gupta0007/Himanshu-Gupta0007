@@ -1,54 +1,95 @@
 # 👋 Hi, I'm Himanshu Gupta
 
-### 🚀 MERN Stack Developer | Full Stack Developer | React.js | Node.js | Next.js | TypeScript | GenAI
+### 🚀 Full Stack Developer | MERN Stack | React.js | Next.js | Node.js | TypeScript | GenAI
 
-I'm a **Full Stack / MERN Stack Developer with 8 months of professional experience**, currently working at **DB Services**.
+> **Building modern, scalable and AI-powered web applications with JavaScript technologies.**
 
-I specialize in building **responsive, scalable, production-ready web applications** using modern JavaScript technologies. I enjoy turning ideas into real-world products with clean UI, robust backend APIs, database integration, authentication, and AI-powered features.
+I'm a **Full Stack / MERN Stack Developer with 8 months of professional experience**, currently working as a **Full Stack Developer at DB Services**.
 
-💡 **Currently focused on:** Full Stack Development • Next.js • TypeScript • GenAI • AI API Integration • System Design
+I enjoy building real-world applications from **frontend interfaces to backend APIs, databases, authentication, third-party integrations, AI features, and production deployment**.
+
+I'm passionate about writing clean, maintainable code and continuously learning modern technologies to build better products.
 
 ---
 
-## 💼 Professional Experience
+## 👨‍💻 About Me
 
-### Full Stack Developer — DB Services
+* 💼 **8 months of professional Full Stack Development experience**
+* ⚛️ Specialized in **React.js, Node.js, Express.js & MongoDB**
+* ▲ Currently expanding my expertise in **Next.js & TypeScript**
+* 🤖 Interested in **Generative AI and AI-powered applications**
+* 🔌 Experienced with **REST APIs, authentication & third-party API integration**
+* 🗄️ Comfortable with **MongoDB, Mongoose & MongoDB Atlas**
+* 🚀 Experienced with **Vercel & Render deployments**
+* 🛠️ Daily tools include **Git, GitHub, Postman & VS Code**
+* 📚 Currently learning **System Design, Advanced Next.js, GenAI & Cloud Technologies**
+
+---
+
+# 💼 Professional Experience
+
+## Full Stack Developer — DB Services
 
 📍 New Delhi, India | 💻 8 Months Experience
 
-* Developed and maintained **full-stack web applications** using React.js, Node.js, Express.js, and MongoDB.
-* Built modern, responsive, and reusable UI components using **React.js and Tailwind CSS**.
-* Designed and integrated **RESTful APIs** for real-world business applications.
-* Implemented authentication, authorization, and secure API communication.
-* Worked with **MongoDB & Mongoose** for database design and data management.
-* Integrated **third-party APIs and AI APIs** into web applications.
-* Used Git and GitHub for version control and collaborative development.
-* Worked with Postman for API testing and debugging.
-* Deployed applications using **Vercel and Render**.
-* Debugged application issues, optimized performance, and implemented new features.
-* Worked on real-world business applications from **frontend development to backend integration and deployment**.
+During my professional experience, I have worked on real-world web applications covering both frontend and backend development.
+
+### What I Work With
+
+* Developed full-stack applications using **React.js, Node.js, Express.js & MongoDB**
+* Built responsive interfaces using **React.js, Tailwind CSS & reusable components**
+* Designed and integrated **RESTful APIs**
+* Implemented **authentication, authorization and protected API flows**
+* Worked with **MongoDB & Mongoose** for database design and data management
+* Integrated **third-party services and AI APIs**
+* Tested and debugged APIs using **Postman**
+* Managed source code using **Git & GitHub**
+* Deployed applications using **Vercel & Render**
+* Debugged production issues and improved application performance
+* Developed new features based on real-world business requirements
+* Worked across the complete development cycle — **UI → API → Database → Deployment**
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### 🎨 Frontend
+## 🎨 Frontend Development
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
 
 `React.js` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind CSS` `Redux Toolkit`
 
-### ⚙️ Backend
+---
+
+## ⚙️ Backend Development
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
 `Node.js` `Express.js` `REST APIs` `JWT` `Authentication` `Authorization`
 
-### 🗄️ Database
+---
+
+## 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 `MongoDB` `MongoDB Atlas` `Mongoose`
 
-### 🤖 AI & GenAI
+---
 
-`Gemini API` `AI API Integration` `Generative AI` `AI-powered Features`
+## 🤖 AI & Generative AI
 
-### 🔧 Tools & Deployment
+`Gemini API` `AI API Integration` `Generative AI` `AI-powered Features` `LLM Integration`
+
+---
+
+## 🔧 Tools & Deployment
 
 `Git` `GitHub` `Postman` `VS Code` `Vercel` `Render` `npm`
 
@@ -58,115 +99,196 @@ I specialize in building **responsive, scalable, production-ready web applicatio
 
 ## 🎬 ShowStack — Movie Ticket Booking Platform
 
-A full-stack movie booking platform where users can explore movies, view available shows, select seats, authenticate securely, and manage bookings.
+> A full-stack movie booking application designed to provide a complete movie discovery and ticket booking experience.
 
-### ✨ Features
+### ✨ Key Features
 
-* 🎥 Movie listings and show management
-* 🎟️ Movie ticket booking
+* 🎥 Movie listings
+* 🎞️ Show management
+* 🎟️ Ticket booking
 * 💺 Seat selection
 * 🔐 User authentication
 * 🛡️ Protected routes
-* 📱 Responsive UI
-* 🔗 REST API integration
-* 🗄️ MongoDB database integration
+* 📱 Responsive interface
+* 🔌 REST API integration
+* 🗄️ MongoDB database
+* ⚡ Modern React architecture
 
-**Tech Stack:**
+### 🧰 Technologies
+
 `React.js` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Clerk` `Axios`
 
-🔗 **Live Demo:** https://show-stack.vercel.app/
+🌐 **Live:** https://show-stack.vercel.app/
 
-🔗 **GitHub:** https://github.com/Himanshu-Gupta0007/ShowStack
+💻 **Repository:** https://github.com/Himanshu-Gupta0007/ShowStack
 
 ---
 
 ## 🤖 TechSphere AI — AI-Powered SaaS Application
 
-An AI-powered web application focused on modern AI features and a SaaS-style user experience.
+> A modern AI-powered SaaS application focused on integrating generative AI capabilities into a responsive web experience.
 
-### ✨ Features
+### ✨ Key Features
 
 * 🤖 AI-powered functionality
 * 🖼️ AI thumbnail/image generation
-* ⚡ Modern responsive interface
+* ⚡ Modern SaaS-style UI
 * 🔌 AI API integration
-* 📱 Mobile-friendly design
+* 📱 Responsive design
 * 🚀 Production deployment
+* 🧩 Reusable frontend components
 
-**Tech Stack:**
+### 🧰 Technologies
+
 `React.js` `TypeScript` `Tailwind CSS` `Gemini API` `AI APIs`
 
-🔗 **Live Demo:** https://tech-sphere-ai.vercel.app/
+🌐 **Live:** https://tech-sphere-ai.vercel.app/
 
-🔗 **GitHub:** https://github.com/Himanshu-Gupta0007/TechSphere-AI
+💻 **Repository:** https://github.com/Himanshu-Gupta0007/TechSphere-AI
 
 ---
 
 ## 🏢 Corporate Mitra Portal
 
-A real-world business services platform designed to provide digital business solutions such as company registration, GST, income tax compliance, and related services.
+> A real-world business services platform built to provide digital business solutions through a modern and responsive web application.
 
-### ✨ Highlights
+### ✨ Key Features
 
 * 💼 Business service management
-* 🌐 Responsive and modern UI
-* 🔌 Frontend & backend integration
-* 📩 Contact form integration
+* 🏢 Company registration services
+* 📑 GST & compliance services
+* 📊 Income tax related services
+* 🌐 Responsive UI
 * 🌍 Multilingual support
-* 🔐 API-based backend architecture
+* 📩 Contact form
+* 🔌 REST API integration
 * 🗄️ MongoDB database
 * 🚀 Production deployment
 
-**Tech Stack:**
+### 🧰 Technologies
+
 `React.js` `Tailwind CSS` `react-i18next` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
-🔗 **Live Website:** https://corporatemitraportal.com/
+🌐 **Live Website:** https://corporatemitraportal.com/
 
-🔗 **GitHub:** https://github.com/Himanshu-Gupta0007
+💻 **GitHub:** https://github.com/Himanshu-Gupta0007
 
 ---
 
-# 📊 Core Skills
+# 📊 Core Development Skills
 
-* 🚀 Full Stack Web Development
-* ⚛️ MERN Stack Development
-* ⚡ React.js Development
-* ▲ Next.js Development
-* 🟦 TypeScript Development
-* 🔌 REST API Development
-* 🔐 Authentication & Authorization
-* 🗄️ Database Design & Management
-* 🔗 Third-Party API Integration
-* 🤖 GenAI & AI API Integration
-* 🎨 Responsive UI Development
-* 🧩 Reusable Component Architecture
-* 🐛 Debugging & Performance Optimization
-* 🚀 Deployment & Production Management
-* 🔧 Git & GitHub
+| Area           | Skills                                               |
+| -------------- | ---------------------------------------------------- |
+| 💻 Frontend    | React.js, Next.js, JavaScript, TypeScript            |
+| ⚙️ Backend     | Node.js, Express.js, REST APIs                       |
+| 🗄️ Database   | MongoDB, Mongoose, MongoDB Atlas                     |
+| 🔐 Security    | JWT, Authentication, Authorization                   |
+| 🎨 UI          | Tailwind CSS, Responsive Design, Reusable Components |
+| 🤖 AI          | Gemini API, GenAI, AI API Integration                |
+| 🔧 Tools       | Git, GitHub, Postman, VS Code                        |
+| 🚀 Deployment  | Vercel, Render                                       |
+| 🧠 Development | Debugging, API Integration, Performance Optimization |
+
+---
+
+# 🧠 What I Can Build
+
+### 🌐 Web Applications
+
+Modern, responsive and scalable web applications using React.js and Next.js.
+
+### ⚙️ Backend Systems
+
+REST APIs, authentication systems, database-driven applications and backend services.
+
+### 🛒 Business Applications
+
+Real-world business portals, service platforms and management applications.
+
+### 🤖 AI-Powered Applications
+
+Applications integrating **Generative AI, Gemini APIs and other AI services**.
+
+### 🎟️ Booking Platforms
+
+Feature-rich applications with authentication, booking workflows, APIs and database integration.
 
 ---
 
 # 📚 Currently Learning
 
-I'm continuously improving my skills and exploring modern technologies:
+I'm continuously improving my development skills and exploring modern technologies.
 
-* ⚡ Advanced Next.js
-* 🟦 TypeScript
-* 🤖 Generative AI & LLM Integration
-* 🧠 AI-powered application development
-* 🏗️ System Design
-* ☁️ Cloud Technologies
-* 🚀 Scalable Full Stack Architecture
+```text
+⚡ Advanced Next.js
+🟦 TypeScript
+🤖 Generative AI & LLM Integration
+🧠 AI Application Development
+🏗️ System Design
+☁️ Cloud Technologies
+🚀 Scalable Application Architecture
+```
 
 ---
 
-# 🎯 Career Objective
+# 🎯 Career Focus
 
-I'm looking for opportunities where I can contribute as a:
+I'm open to opportunities as a:
 
-**MERN Stack Developer • Full Stack Developer • React.js Developer • Node.js Developer**
+**Full Stack Developer • MERN Stack Developer • React.js Developer • Node.js Developer**
 
-I'm particularly interested in working on **real-world products, scalable web applications, SaaS platforms, and AI-powered applications** while continuing to grow as a software developer.
+I'm particularly interested in working with teams building:
+
+* 🚀 Scalable web applications
+* 🌐 SaaS products
+* 🤖 AI-powered applications
+* 💼 Business applications
+* ⚡ Modern JavaScript applications
+* 🏗️ Production-grade software systems
+
+---
+
+# 💻 My Development Philosophy
+
+```javascript
+const developer = {
+  build: "Real-world products",
+  focus: "Clean & maintainable code",
+  frontend: "React.js / Next.js",
+  backend: "Node.js / Express.js",
+  database: "MongoDB",
+  language: "JavaScript / TypeScript",
+  ai: "Generative AI",
+  deployment: "Vercel / Render",
+
+  mindset: [
+    "Keep Learning",
+    "Keep Building",
+    "Keep Improving"
+  ]
+};
+```
+
+---
+
+# ⚡ Developer Snapshot
+
+```text
+┌──────────────────────────────────────────────┐
+│              HIMANSHU GUPTA                  │
+├──────────────────────────────────────────────┤
+│ 👨‍💻 Role        : Full Stack Developer       │
+│ 💼 Experience   : 8 Months                   │
+│ ⚛️ Frontend     : React.js / Next.js         │
+│ ⚙️ Backend      : Node.js / Express.js       │
+│ 🗄️ Database     : MongoDB                    │
+│ 🟦 Language     : JavaScript / TypeScript    │
+│ 🤖 AI           : GenAI / Gemini API         │
+│ 🔧 Tools        : Git / GitHub / Postman     │
+│ 🚀 Deployment   : Vercel / Render             │
+│ 🎓 Education   : BCA                         │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
@@ -178,77 +300,24 @@ I'm particularly interested in working on **real-world products, scalable web ap
 
 # 📫 Let's Connect
 
-💼 **LinkedIn:**
+💼 **LinkedIn**
 https://www.linkedin.com/in/himanshu-gupta-546a5b323/
 
-💻 **GitHub:**
+💻 **GitHub**
 https://github.com/Himanshu-Gupta0007
 
-🌐 **Portfolio / Projects:**
-Explore my repositories to see my latest work and experiments.
+🌐 **Live Projects**
+
+Explore my repositories and deployed applications to see what I'm currently building.
 
 ---
 
-# ⚡ A Little More About Me
+# ⭐ Thanks for Visiting My Profile!
 
-```javascript
-const himanshu = {
-  role: "Full Stack Developer",
-  experience: "8 Months",
-  location: "New Delhi, India",
+I'm always interested in **building, learning and collaborating** on meaningful software projects.
 
-  frontend: [
-    "React.js",
-    "Next.js",
-    "JavaScript",
-    "TypeScript",
-    "Tailwind CSS",
-    "Redux Toolkit"
-  ],
+If you're a developer, recruiter, founder, or someone interested in technology, feel free to connect.
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs",
-    "JWT"
-  ],
+### 🚀 Let's Build Something Amazing Together!
 
-  database: [
-    "MongoDB",
-    "Mongoose",
-    "MongoDB Atlas"
-  ],
-
-  ai: [
-    "Gemini API",
-    "Generative AI",
-    "AI API Integration"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "Postman",
-    "Vercel",
-    "Render"
-  ],
-
-  currentlyLearning: [
-    "Advanced Next.js",
-    "TypeScript",
-    "GenAI",
-    "System Design",
-    "Cloud Technologies"
-  ],
-
-  goal: "Build scalable, impactful and AI-powered products"
-};
-```
-
----
-
-## ⭐ Thanks for Visiting My Profile!
-
-If you find my projects interesting, feel free to **explore my repositories, connect with me, or collaborate on a project.**
-
-### 🚀 Let's build something amazing together!
+⭐ **Explore my repositories • Connect with me • Let's collaborate**
