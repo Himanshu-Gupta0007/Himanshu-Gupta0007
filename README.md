@@ -128,7 +128,7 @@ During my professional experience, I have worked on real-world web applications 
 
 > A modern AI-powered SaaS application focused on integrating generative AI capabilities into a responsive web experience.
 
-### ✨ Key Features
+# ✨ Key Features
 
 * 🤖 AI-powered functionality
 * 🖼️ AI thumbnail/image generation
@@ -165,7 +165,7 @@ During my professional experience, I have worked on real-world web applications 
 * 🗄️ MongoDB database
 * 🚀 Production deployment
 
-### 🧰 Technologies
+## 🧰 Technologies
 
 `React.js` `Tailwind CSS` `react-i18next` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
