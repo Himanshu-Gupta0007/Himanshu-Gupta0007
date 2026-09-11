@@ -306,7 +306,7 @@ https://www.linkedin.com/in/himanshu-gupta-546a5b323/
 💻 **GitHub**
 https://github.com/Himanshu-Gupta0007
 
-🌐 **Live Projects**
+🌐 **Live Projects*
 
 Explore my repositories and deployed applications to see what I'm currently building.
 
