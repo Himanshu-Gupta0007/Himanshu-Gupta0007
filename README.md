@@ -101,7 +101,7 @@ During my professional experience, I have worked on real-world web applications 
 
 > A full-stack movie booking application designed to provide a complete movie discovery and ticket booking experience.
 
-### ✨ Key Features
+#####  ✨ Key Features
 
 * 🎥 Movie listings
 * 🎞️ Show management
