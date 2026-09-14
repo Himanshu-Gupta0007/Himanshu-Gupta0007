@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Himanshu Gupta
+#### 👋 Hi, I'm Himanshu Gupta
 
 ### 🚀 Full Stack Developer | MERN Stack | React.js | Next.js | Node.js | TypeScript | GenAI
 
