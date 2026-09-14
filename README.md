@@ -1,6 +1,6 @@
 #### 👋 Hi, I'm Himanshu Gupta
 
-### 🚀 Full Stack Developer | MERN Stack | React.js | Next.js | Node.js | TypeScript | GenAI
+#### 🚀 Full Stack Developer | MERN Stack | React.js | Next.js | Node.js | TypeScript | GenAI
 
 > **Building modern, scalable and AI-powered web applications with JavaScript technologies.**
 
@@ -12,7 +12,7 @@ I'm passionate about writing clean, maintainable code and continuously learning 
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 * 💼 **8 months of professional Full Stack Development experience**
 * ⚛️ Specialized in **React.js, Node.js, Express.js & MongoDB**
