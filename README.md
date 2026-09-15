@@ -152,7 +152,7 @@ During my professional experience, I have worked on real-world web applications 
 
 > A real-world business services platform built to provide digital business solutions through a modern and responsive web application.
 
-### ✨ Key Features
+### $$$✨ Key Features
 
 * 💼 Business service management
 * 🏢 Company registration services
