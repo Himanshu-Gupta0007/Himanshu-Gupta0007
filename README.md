@@ -28,7 +28,7 @@ I'm passionate about writing clean, maintainable code and continuously learning 
 
 # 💼 Professional Experience
 
-## Full Stack Developer — DB Services
+##$$ Full Stack Developer — DB Services
 
 📍 New Delhi, India | 💻 8 Months Experience
 
