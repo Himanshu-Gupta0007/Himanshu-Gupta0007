@@ -83,7 +83,7 @@ During my professional experience, I have worked on real-world web applications 
 
 ---
 
-## 🤖 AI & Generative AI
+##$$ 🤖 AI & Generative AI
 
 `Gemini API` `AI API Integration` `Generative AI` `AI-powered Features` `LLM Integration`
 
