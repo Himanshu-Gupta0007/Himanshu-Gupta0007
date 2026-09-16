@@ -124,7 +124,7 @@ During my professional experience, I have worked on real-world web applications 
 
 ---
 
-## 🤖 TechSphere AI — AI-Powered SaaS Application
+$$$ 🤖 TechSphere AI — AI-Powered SaaS Application
 
 > A modern AI-powered SaaS application focused on integrating generative AI capabilities into a responsive web experience.
 
