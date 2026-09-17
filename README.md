@@ -51,7 +51,7 @@ During my professional experience, I have worked on real-world web applications 
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Technical Skills ##
 
 ## 🎨 Frontend Development
 
