@@ -231,7 +231,7 @@ I'm continuously improving my development skills and exploring modern technologi
 
 ---
 
-# 🎯 Career Focus
+# $$🎯 Career Focus
 
 I'm open to opportunities as a:
 
