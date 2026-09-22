@@ -250,7 +250,7 @@ I'm particularly interested in working with teams building:
 
 # 💻 My Development Philosophy
 
-```javascript
+javascript
 const developer = {
   build: "Real-world products",
   focus: "Clean & maintainable code",
