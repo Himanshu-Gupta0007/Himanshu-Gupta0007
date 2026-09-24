@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    Building modern, scalable, and AI-powered web applications with JavaScript technologies.
+    <i>Building modern, scalable, and AI-powered web applications with JavaScript technologies.</i>
   </p>
 
   <div>
@@ -25,6 +25,7 @@
 
 ## 👨‍💻 About Me
 
+```text
 ┌───────────────────────────────────────────────────────────────────┐
 │                      HIMANSHU GUPTA                               │
 ├───────────────────────────────────────────────────────────────────┤
@@ -37,40 +38,8 @@
 │ 🚀 Deployment   : Vercel, Render                                  │
 └───────────────────────────────────────────────────────────────────┘
 
-💼 Professional Experience: Currently working as a Full Stack Developer at DB Services (New Delhi), end-to-end building features across UI, APIs, databases, and production deployments.
 
-⚡ What I Do: Build full-stack web applications, optimize APIs, design MongoDB schemas, integrate AI capabilities, and streamline deployments.
 
-🧠 Current Focus: Deep-diving into System Design, Advanced Next.js, TypeScript, and Generative AI / LLM Integrations.
-
-🛠️ Dev Philosophy: Clean code, modular architectures, constant learning, and real-world value.
-Developed full-stack web applications using React.js, Node.js, Express.js, and MongoDB.
-
-Engineered responsive interfaces with Tailwind CSS and reusable frontend component patterns.
-
-Designed RESTful API routes, secured authentication/authorization middleware (JWT), and protecting state flows.
-
-Built schema designs with Mongoose and MongoDB Atlas for reliable data handling.
-
-Integrated third-party APIs and Generative AI endpoints to expand core app features.
-
-Monitored production deployments on Vercel & Render, diagnosing bugs and improving overall application stability.
-
-🎯 Career Targets & Collaboration
-I am actively looking for high-impact roles as a Full Stack Developer, MERN Stack Developer, React.js Developer, or Node.js Developer.
-
-I enjoy collaborating on:
-
-🚀 Scalable Web Applications
-
-🌐 SaaS Products
-
-🤖 AI-powered Platforms
-
-💼 Enterprise & Business Solutions
-
-💡 Development Mindset
-JavaScript
 const developer = {
   name: "Himanshu Gupta",
   builds: "Real-world, scalable web products",
@@ -78,4 +47,3 @@ const developer = {
   interests: ["Generative AI", "System Design", "Cloud Infrastructure"],
   mindset: ["Keep Learning", "Keep Building", "Keep Improving"]
 };
-⭐ Thank you for visiting my profile! Let's build something amazing together.
