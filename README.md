@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td><b>💼 Experience</b></td>
-    <td>8 Months — Full Stack Developer @ DB Services</td>
+    <td>8 Months — Full Stack Developer @DB CONSULTANCY</td>
   </tr>
   <tr>
     <td><b>🎓 Education</b></td>
