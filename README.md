@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td><b>🎓 Education</b></td>
-    <td>Bachelor of Commerce </td>
+    <td>Bachelor of Commerce (B.Com) </td>
   </tr>
   <tr>
     <td><b>📍 Location</b></td>
