@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td><b>🎓 Education</b></td>
-    <td>Bachelor of Computer Applications (BCA)</td>
+    <td>Bachelor of Commerce </td>
   </tr>
   <tr>
     <td><b>📍 Location</b></td>
