@@ -93,7 +93,7 @@ const developer = {
   ],
 
   tools: [
-    "Git",
+    "Git",===
     "GitHub",
     "Postman",
     "Vercel",
