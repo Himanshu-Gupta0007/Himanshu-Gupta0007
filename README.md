@@ -85,7 +85,7 @@ const developer = {
   ],
 
   currentlyExploring: [
-    "Next.js",45
+    "Next.js",
     "Generative AI",
     "AI API Integration",
     "System Design",
