@@ -76,7 +76,7 @@ const developer = {
   ],
 
   coreStack: [
-    "React.js",151541516541
+    "React.js",15
     "Node.js",
     "Express.js",
     "MongoDB",
