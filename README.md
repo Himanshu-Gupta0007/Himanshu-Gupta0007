@@ -66,7 +66,7 @@
 
 ```javascript
 const developer = {
-  name: "Himanshu Gupta",vggjhbvyh
+  name: "Himanshu Gupta",vg
   role: "Full Stack / MERN Developer",
 
   builds: [
