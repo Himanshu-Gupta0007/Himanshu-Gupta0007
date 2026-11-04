@@ -10,7 +10,7 @@
     <b>TypeScript</b> •
     <b>GenAI</b>
   </p>
-fdfewfwef
+
   <p align="center">
     <i>Building modern, scalable, and AI-powered web applications using JavaScript technologies.</i>
   </p>
