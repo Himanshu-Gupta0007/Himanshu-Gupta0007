@@ -5,7 +5,7 @@
     <b>Full Stack Developer</b> •
     <b>MERN Stack</b> •
     <b>React.js</b> •
-    <b>Next.js</b> •
+    <b>Next.js</b> •bfdgfvrf
     <b>Node.js</b> •
     <b>TypeScript</b> •
     <b>GenAI</b>
