@@ -6,7 +6,7 @@
     <b>MERN Stack</b> •
     <b>React.js</b> •
     <b>Next.js</b> •
-    <b>Node.js</b> •fdef
+    <b>Node.js</b> •
     <b>TypeScript</b> •
     <b>GenAI</b>
   </p>
