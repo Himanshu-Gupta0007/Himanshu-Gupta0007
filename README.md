@@ -8,7 +8,7 @@
     <b>Next.js</b> •
     <b>Node.js</b> •
     <b>TypeScript</b> •
-    <b>GenAI</b>
+    <b>GenAI</b>fewwe
   </p>
 
   <p align="center">
