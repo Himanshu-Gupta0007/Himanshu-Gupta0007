@@ -4,7 +4,7 @@
   <p align="center">
     <b>Full Stack Developer</b> •
     <b>MERN Stack</b> •
-    <b>React.js</b> •
+    <b>React.js</b> •gyuhvu
     <b>Next.js</b> •
     <b>Node.js</b> •
     <b>TypeScript</b> •
