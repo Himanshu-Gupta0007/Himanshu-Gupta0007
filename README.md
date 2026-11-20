@@ -7,7 +7,7 @@
     <b>React.js</b> •
     <b>Next.js</b> •
     <b>Node.js</b> •
-    <b>TypeScript</b> •
+    <b>TypeScript</b> •edwewedwedwedwwed
     <b>GenAI</b>
   </p>
 
